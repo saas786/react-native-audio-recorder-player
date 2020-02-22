@@ -61,7 +61,7 @@
     "@types/react-navigation": "^3.0.8",
     "@types/react-test-renderer": "^16.8.6",
     "@types/styled-components": "^4.1.19",
-    "@typescript-eslint/eslint-plugin": "^2.2.0",
+    "@typescript-eslint/eslint-plugin": "^2.20.0",
     "@typescript-eslint/parser": "^2.2.0",
     "babel-jest": "24.9.0",
     "babel-preset-react-native": "^5.0.2",
